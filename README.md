@@ -83,7 +83,7 @@ dotnet run
 
 ## Tác giả
 
-[Tên của bạn]
+Huỳnh Phúc Bảo
 
 ## License
 
